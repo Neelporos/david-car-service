@@ -1,0 +1,14 @@
+.service {
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+.service:hover {
+    background-color: aqua;
+}
+
+.service img {
+    border-radius: 10px;
+}
